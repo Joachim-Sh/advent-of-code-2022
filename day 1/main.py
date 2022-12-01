@@ -1,7 +1,7 @@
 import os
 
 # Memory Complexity: O(nmb_max)
-# Runtime Complexity: O(n)
+# Runtime Complexity: O(n*nmb_max)
 
 if __name__ == "__main__":
 

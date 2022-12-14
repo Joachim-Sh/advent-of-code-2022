@@ -1,5 +1,5 @@
 # Memory Complexity: O(n)
-# Runtime Complexity: O(n*sqrt(n))
+# Runtime Complexity: O(n)
 
 import numpy as np
 

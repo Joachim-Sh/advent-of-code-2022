@@ -1,5 +1,5 @@
-# Memory Complexity: O(n)
-# Runtime Complexity: O(n*sqrt(n))
+# Memory Complexity: O(n_items + n_monk)
+# Runtime Complexity: O(n*n_monk*n_items)
 
 import numpy as np
 from tqdm import tqdm
